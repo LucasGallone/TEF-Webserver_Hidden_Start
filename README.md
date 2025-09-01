@@ -1,4 +1,4 @@
-# TEF-Webserver_Hidden_Start
+# TEF Webserver "Silent Start" with VBScript
 A very simple VBScript that allows you to start a [TEF webserver](https://github.com/NoobishSVK/fm-dx-webserver/) "silently" on a Windows machine.
 <br>
 <br>
