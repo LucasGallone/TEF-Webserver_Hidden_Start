@@ -19,7 +19,7 @@ To create a startup .bat, in case you haven't already:
 <br>
 -> Open the Windows Notepad or Notepad++
 <br>
--> Type the following ```node .```
+-> Type the following: ```node .```
 <br>
 -> Save the .bat file in the folder where the webserver files are located (IMPORTANT). Name it as you want, but don't forget to include the ```.bat``` extension at the end, and select "All files" as file type.
 <br>
